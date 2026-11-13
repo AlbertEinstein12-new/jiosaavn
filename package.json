@@ -71,7 +71,7 @@
     "spell-check": "cspell ."
   },
   "dependencies": {
-    "@hono/node-server": "^2.0.10",
+    "@hono/node-server": "^1.13.0",
     "@hono/zod-openapi": "^0.19.2",
     "@hono/zod-validator": "^0.4.3",
     "@scalar/hono-api-reference": "^0.7.4",
